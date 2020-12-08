@@ -95,7 +95,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FA50BE8C2577A3E300EF9C19 /* Build configuration list for PBXProject "C++ Tutorial" */;
+			buildConfigurationList = FA50BE8C2577A3E300EF9C19 /* Build configuration list for PBXProject "cppTutorial" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -267,7 +267,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FA50BE8C2577A3E300EF9C19 /* Build configuration list for PBXProject "C++ Tutorial" */ = {
+		FA50BE8C2577A3E300EF9C19 /* Build configuration list for PBXProject "cppTutorial" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FA50BE8D2577A3E300EF9C19 /* Debug */,
